@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="cnisone.com/"/>
+  <link href="www.cnisone.com/"/>
   <updated>2018-04-09T10:31:17.491Z</updated>
-  <id>cnisone.com/</id>
+  <id>www.cnisone.com/</id>
   
   <author>
-    <name>cn</name>
+    <name>cn·JinKun</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="cnisone.com/2018/04/09/hello-world/"/>
-    <id>cnisone.com/2018/04/09/hello-world/</id>
+    <link href="www.cnisone.com/2018/04/09/hello-world/"/>
+    <id>www.cnisone.com/2018/04/09/hello-world/</id>
     <published>2018-04-09T10:31:17.490Z</published>
     <updated>2018-04-09T10:31:17.491Z</updated>
     
